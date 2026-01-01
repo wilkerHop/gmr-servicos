@@ -1,26 +1,26 @@
 "use client";
 
 import {
-    Accordion,
-    AccordionContent,
-    AccordionItem,
-    AccordionTrigger,
+  Accordion,
+  AccordionContent,
+  AccordionItem,
+  AccordionTrigger,
 } from "@/components/ui/accordion";
 import { Button } from "@/components/ui/button";
 import {
-    Sheet,
-    SheetContent,
-    SheetDescription,
-    SheetHeader,
-    SheetTitle,
+  Sheet,
+  SheetContent,
+  SheetDescription,
+  SheetHeader,
+  SheetTitle,
 } from "@/components/ui/sheet";
 import {
-    AlertTriangle,
-    Bug,
-    CheckCircle,
-    Droplets,
-    Phone,
-    Shield,
+  AlertTriangle,
+  Bug,
+  CheckCircle,
+  Droplets,
+  Phone,
+  Shield,
 } from "lucide-react";
 
 interface DengueModalProps {
@@ -153,7 +153,7 @@ export function DengueModal({ isOpen, onClose }: DengueModalProps) {
               className="w-full bg-[var(--gmr-yellow)] text-[var(--gmr-blue)] hover:bg-[var(--gmr-blue)] hover:text-white font-semibold"
             >
               <a
-                href="https://wa.me/5511942627997?text=Olá! Gostaria de agendar uma visita preventiva contra Dengue no meu condomínio."
+                href="https://wa.me/5511950371748?text=Olá! Gostaria de agendar uma visita preventiva contra Dengue no meu condomínio."
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -177,7 +177,7 @@ export function DengueModal({ isOpen, onClose }: DengueModalProps) {
               className="bg-white text-orange-600 hover:bg-orange-50 font-semibold shadow-lg"
             >
               <a
-                href="https://wa.me/5511942627997?text=Olá! Preciso de dedetização preventiva para meu condomínio. Podem agendar uma visita?"
+                href="https://wa.me/5511950371748?text=Olá! Preciso de dedetização preventiva para meu condomínio. Podem agendar uma visita?"
                 target="_blank"
                 rel="noopener noreferrer"
               >

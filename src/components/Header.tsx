@@ -76,7 +76,7 @@ export function Header() {
               className="bg-[var(--gmr-yellow)] text-[var(--gmr-blue)] hover:bg-[var(--gmr-blue)] hover:text-white font-semibold shadow-lg transition-all duration-300"
             >
               <a
-                href="https://wa.me/5511942627997?text=Olá! Gostaria de solicitar um orçamento."
+                href="https://wa.me/5511950371748?text=Olá! Gostaria de solicitar um orçamento."
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -121,7 +121,7 @@ export function Header() {
                   className="mt-4 bg-[var(--gmr-yellow)] text-[var(--gmr-blue)] hover:bg-[var(--gmr-blue)] hover:text-white font-semibold"
                 >
                   <a
-                    href="https://wa.me/5511942627997?text=Olá! Gostaria de solicitar um orçamento."
+                    href="https://wa.me/5511950371748?text=Olá! Gostaria de solicitar um orçamento."
                     target="_blank"
                     rel="noopener noreferrer"
                   >

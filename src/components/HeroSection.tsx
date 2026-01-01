@@ -45,19 +45,19 @@ export function HeroSection() {
 
             {/* Headline */}
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-tight mb-6">
-              Soluções Completas para{" "}
-              <span className="text-[var(--gmr-blue)]">Condomínios</span>:{" "}
               <span className="relative inline-block">
-                <span className="relative z-10">Limpeza</span>
+                <span className="relative z-10">Dedetização</span>
                 <span className="absolute bottom-2 left-0 right-0 h-3 bg-[var(--gmr-yellow)]/40 -z-0" />
               </span>
-              , Segurança e Manutenção
+              , Limpeza e{" "}
+              <span className="text-[var(--gmr-blue)]">Manutenção Predial</span>{" "}
+              para Condomínios
             </h1>
 
             {/* Subheadline */}
             <p className="text-lg sm:text-xl text-muted-foreground mb-8 max-w-xl mx-auto lg:mx-0">
-              Portaria, limpeza, dedetização e segurança. Trabalhamos com
-              transparência, qualidade e preços competitivos.
+              Dedetização contra Dengue, limpeza pós-obra, portaria 24h e manutenção predial.
+              Trabalhamos com transparência, qualidade e preços competitivos.
             </p>
 
             {/* Highlights */}
@@ -81,7 +81,7 @@ export function HeroSection() {
                 className="bg-[var(--gmr-yellow)] text-[var(--gmr-blue)] hover:bg-[var(--gmr-blue)] hover:text-white font-semibold text-lg px-8 h-14 shadow-lg hover:shadow-xl transition-all duration-300"
               >
                 <a
-                  href="https://wa.me/5511942627997?text=Olá! Vim pelo site e gostaria de solicitar um orçamento gratuito."
+                  href="https://wa.me/5511950371748?text=Olá! Vim pelo site e gostaria de solicitar um orçamento gratuito."
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -150,7 +150,7 @@ export function HeroSection() {
               >
                 <Phone className="w-6 h-6 mb-1" />
                 <p className="text-xs font-medium">WhatsApp</p>
-                <p className="text-sm font-bold">9.4262-7997</p>
+                <p className="text-sm font-bold">9.5037-1748</p>
               </motion.div>
 
               <motion.div

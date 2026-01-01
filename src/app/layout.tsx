@@ -10,17 +10,18 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "GMR Serviços | Limpeza, Segurança e Manutenção para Condomínios em SP",
+  title: "Dedetização, Limpeza e Manutenção Predial para Condomínios | GMR Serviços",
   description:
-    "Empresa de serviços terceirizados em São Paulo. Portaria, limpeza, conservação, dedetização contra Dengue, segurança para eventos. Solicite um orçamento gratuito!",
+    "Dedetização contra Dengue, limpeza pós-obra, portaria 24h e manutenção predial para condomínios em São Paulo. Cobrimos orçamentos! Solicite uma visita gratuita.",
   keywords: [
-    "Portaria em SP",
-    "Empresa de Limpeza São Paulo",
-    "Dedetização Dengue",
-    "Segurança para eventos",
-    "Terceirização de serviços",
-    "Limpeza comercial",
-    "Controle de pragas SP",
+    "Dedetização SP",
+    "Dedetização Dengue São Paulo",
+    "Controle de pragas condomínio",
+    "Limpeza pós-obra SP",
+    "Manutenção predial condomínio",
+    "Portaria 24h São Paulo",
+    "Empresa de limpeza condomínio",
+    "GMR Serviços",
   ],
   authors: [{ name: "Gerson Moreira" }],
   icons: {
@@ -28,9 +29,9 @@ export const metadata: Metadata = {
     apple: "/gmr-logo.jpeg",
   },
   openGraph: {
-    title: "GMR Serviços | Soluções Completas para Condomínios",
+    title: "Dedetização e Manutenção Predial para Condomínios | GMR Serviços",
     description:
-      "Portaria, Limpeza, Dedetização e Segurança. Cobrimos orçamentos!",
+      "Dedetização contra Dengue, limpeza, portaria e manutenção predial. Cobrimos orçamentos!",
     type: "website",
     locale: "pt_BR",
     images: ["/gmr-logo.jpeg"],

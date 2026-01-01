@@ -41,7 +41,7 @@ export function ContactSection() {
         `Mensagem: ${formState.message || "Gostaria de solicitar um orçamento."}`
     );
 
-    window.open(`https://wa.me/5511942627997?text=${whatsappMessage}`, "_blank");
+    window.open(`https://wa.me/5511950371748?text=${whatsappMessage}`, "_blank");
 
     setIsSubmitting(false);
     setIsSubmitted(true);
@@ -106,11 +106,11 @@ export function ContactSection() {
                       className="bg-white text-green-600 hover:bg-green-50 font-semibold shadow-lg"
                     >
                       <a
-                        href="https://wa.me/5511942627997?text=Olá! Vim pelo site e gostaria de solicitar um orçamento."
+                        href="https://wa.me/5511950371748?text=Olá! Vim pelo site e gostaria de solicitar um orçamento."
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        (11) 9.4262-7997
+                        (11) 9.5037-1748
                         <Phone className="w-4 h-4 ml-2" />
                       </a>
                     </Button>
@@ -140,7 +140,7 @@ export function ContactSection() {
                       className="border-orange-500 text-orange-600 hover:bg-orange-500 hover:text-white"
                     >
                       <a
-                        href="https://wa.me/5511942627997?text=Olá! Gostaria de agendar uma visita preventiva contra Dengue."
+                        href="https://wa.me/5511950371748?text=Olá! Gostaria de agendar uma visita preventiva contra Dengue."
                         target="_blank"
                         rel="noopener noreferrer"
                       >

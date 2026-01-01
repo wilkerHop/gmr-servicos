@@ -191,7 +191,7 @@ export function BentoGrid() {
                       className="border-[var(--gmr-blue)] text-[var(--gmr-blue)] hover:bg-[var(--gmr-blue)] hover:text-white"
                     >
                       <a
-                        href={`https://wa.me/5511942627997?text=Olá! Gostaria de saber mais sobre ${service.title} para meu condomínio.`}
+                        href={`https://wa.me/5511950371748?text=Olá! Gostaria de saber mais sobre ${service.title} para meu condomínio.`}
                         target="_blank"
                         rel="noopener noreferrer"
                       >

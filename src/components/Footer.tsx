@@ -78,10 +78,10 @@ export function Footer() {
                 <Phone className="w-4 h-4 mt-0.5 text-[var(--gmr-yellow)]" />
                 <div>
                   <a
-                    href="tel:+5511942627997"
+                    href="tel:+5511950371748"
                     className="text-white/70 hover:text-[var(--gmr-yellow)] transition-colors text-sm"
                   >
-                    (11) 9.4262-7997
+                    (11) 9.5037-1748
                   </a>
                   <p className="text-xs text-white/50">WhatsApp</p>
                 </div>
